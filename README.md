@@ -41,12 +41,12 @@ Follow these steps to install and run the project locally:
 
 1️⃣ Clone or Download the Repository
 bash
-Copy code
+>Copy code
 git clone https://github.com/yashvanthgp/Face-Recognition-Attendance-System.git
 Or download the ZIP file directly and extract it.
 
 2️⃣ Move the Project to Your Server Directory
-If using XAMPP, place the project inside:
+>If using XAMPP, place the project inside:
 
 bash
 Copy code
@@ -54,12 +54,12 @@ xampp/htdocs/Face-Recognition-Attendance-System
 Use a simple folder name like attendance-system for easier access.
 
 3️⃣ Start XAMPP
-Open XAMPP Control Panel
+>Open XAMPP Control Panel
 
 Start the Apache and MySQL services
 
 4️⃣ Set Up the Database
-Open phpMyAdmin
+>Open phpMyAdmin
 
 Create a new database — recommended name: attendance_db
 
@@ -71,7 +71,7 @@ database/attendance-db.sql
 Ensure your project configuration matches the database name.
 
 5️⃣ Launch the Application
-Open your browser and visit:
+>Open your browser and visit:
 
 arduino
 Copy code
@@ -123,14 +123,14 @@ Modifications and enhancements by Yashvanth GP, 2025.
 
 📧 For inquiries or support: yashvanthgp236@gmail.com
 
-sql
-Copy code
+
+
 
 ---
 
-## 📜 **LICENSE File (MIT License)**
+ 📜 **LICENSE File (MIT License)
 
-```text
+
 MIT License
 
 Copyright (c) 2025 Yashvanth GP
